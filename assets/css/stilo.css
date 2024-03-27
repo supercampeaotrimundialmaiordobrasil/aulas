@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+}
+
+a{
+    margin-top: 5px;
+    padding: 5px;    background: rgb(0, 162, 255);
+    text-decoration: none;    color: #ffffff;
+    border-radius: 5px;
+}
+
+div{
+    height: 20px;
+    padding: 5px 10px;
+    margin: 15px auto;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+nav{
+    background: yellow;
+}
+body ul{
+    text-align: center;
+}
